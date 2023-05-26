@@ -3,6 +3,7 @@
     margin-bottom: 10px;
     font-weight: bolder;
     color: black;
+    font-family: 'Saira Stencil One', bold;
   }
   
   .bio-description {
@@ -12,6 +13,6 @@
     padding-left: 20px;
     padding-right: 20px;
     font-family: 'Saira Stencil One', bold;
-    color: black;
+    color: white;
     font-weight: bolder;
   }
