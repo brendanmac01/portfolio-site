@@ -1,0 +1,17 @@
+.bio-section {
+    text-align: center;
+    margin-bottom: 10px;
+    font-weight: bolder;
+    color: black;
+  }
+  
+  .bio-description {
+    font-size: 17px;
+    margin-top: 10px;
+    padding: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: 'Saira Stencil One', bold;
+    color: black;
+    font-weight: bolder;
+  }

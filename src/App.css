@@ -1,5 +1,5 @@
 body {
-  background-image: url('./images/bgbg.jpg');
+  background-image: url('./images/space.jpeg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -76,4 +76,17 @@ body {
 
 .project-link:hover {
   background-color: #0056b3;
+}
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Ensure the container takes at least the full viewport height */
+}
+.container {
+  padding: 60px;
+  margin: 60px;
+}
+
+.bio-section {
+  margin-bottom: 40px;
 }

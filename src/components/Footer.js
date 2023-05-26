@@ -13,10 +13,10 @@ const Footer = () => {
   return (
     <footer className="footer">
       <div className="footer-icons">
-        <a href="https://github.com/your-github-url">
+        <a href="https://github.com/brendanmac01">
           <img src={githubLogo} alt="GitHub" className="footer-icon" />
         </a>
-        <a href="https://www.linkedin.com/in/your-linkedin-url">
+        <a href="https://www.linkedin.com/in/brendan-mcintosh-949618190/">
           <img src={linkedinLogo} alt="LinkedIn" className="footer-icon" />
         </a>
         <button className="footer-email" onClick={handleEmailClick}>

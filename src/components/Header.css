@@ -1,0 +1,41 @@
+.header-section {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .header-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .header-text {
+    text-align: center;
+  }
+  
+  .header-name {
+    font-size: 48px;
+    margin-bottom: 10px;
+  }
+  
+  .header-profession {
+    font-size: 24px;
+    color: #888;
+  }
+  
+  .header-image {
+    margin-left: 40px;
+  }
+  
+  .header-image img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+  

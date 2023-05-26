@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import './Projects.css';
 import '../App.css';
 
+
 const Projects = () => {
   const projectsData = [
     {
