@@ -43,7 +43,7 @@ const Projects = () => {
 
   return (
     <section id="projects" className="projects-section">
-      <h2 className="projects-heading">Projects</h2>
+      <h2 className="projects-heading">My Portfolio</h2>
       <div className="projects-container">
         {projectsData.map((project) => (
           <div
